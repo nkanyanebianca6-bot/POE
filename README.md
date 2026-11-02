@@ -8,8 +8,8 @@ This is my academic website for **Masingitas Travel and Tours**, a South African
 - Part 2: I designed the CSS styling and responsive layout.
 - Part 3 (this update): I applied the *Student SEO and Publishing Guide* to my own site. The guide's example is a bakery, so I adapted every step to a travel agency. I also fixed problems I found along the way and added JavaScript features.
 
-- **Repository URL:** `https://github.com/nkanyanebianca6-bot/masingita-travel-tours` *(to be added after I push)*
-- **Live URL:** `https://nkanyanebianca6-bot.github.io/masingita-travel-tours/` *(to be added after I publish with GitHub Pages)*
+- **Repository URL:** `https://github.com/nkanyanebianca6-bot/POE` *(to be added after I push)*
+- **Live URL:** `https://nkanyanebianca6-bot.github.io/POE/` *(to be added after I publish with GitHub Pages)*
 
 ---
 
@@ -74,8 +74,8 @@ My off-page SEO plan (the student activity):
 
 1. **Organisations that might link to the site:** a local school or school governing body (for the school excursion and Heritage Day tours), a provincial tourism association or community tourism page, and a church or community group that organises group outings.
 2. **Polite outreach message:**
-   > Good day. My name is Bianca Nkanyane from Masingitas Travel and Tours. We have published a page listing our upcoming group tours for 2026–2027, including a Heritage Day cultural tour that is suitable for school groups. If you think it would be useful to your members, you are welcome to share the link: nkanyanebianca6-bot.github.io/masingita-travel-tours/pages/events.html. Thank you for your time.
-3. **Social post that helps customers find a page:** *"Festive season seats are filling up! Our Durban beach getaway departs 12 December. See all group tour dates here:nkanyanebianca6-bot.github.io/masingita-travel-tours/pages/events.html"*
+   > Good day. My name is Bianca Nkanyane from Masingitas Travel and Tours. We have published a page listing our upcoming group tours for 2026–2027, including a Heritage Day cultural tour that is suitable for school groups. If you think it would be useful to your members, you are welcome to share the link: nkanyanebianca6-bot.github.io/POE/pages/events.html. Thank you for your time.
+3. **Social post that helps customers find a page:** *"Festive season seats are filling up! Our Durban beach getaway departs 12 December. See all group tour dates here: nkanyanebianca6-bot.github.io/POE/pages/events.html"*
 
 None of this guarantees backlinks or a search ranking. The goal is just to help real people find useful pages.
 
@@ -83,7 +83,7 @@ None of this guarantees backlinks or a search ranking. The goal is just to help 
 
 - **`robots.txt`**: created beside `index.html`. It allows all crawlers and points to the sitemap.
 - **`sitemap.xml`**: lists all 7 public pages.
-  > Both files use my real GitHub Pages address: `nkanyanebianca6-bot.github.io/masingita-travel-tours`.
+  > Both files use my real GitHub Pages address: `nkanyanebianca6-bot.github.io/POE`.
 - **Speed:**
   - Every image now loads from the project instead of from Unsplash's servers.
   - Images are in modern compressed formats (AVIF/WebP), and I re-compressed the largest ones. The whole `images/` folder is about 1.8 MB for 20 images.
@@ -144,8 +144,8 @@ I'm doing the GitHub part myself. My checklist:
 - [x] `robots.txt` sits beside `index.html` *(real sitemap address still to be added after publishing)*
 - [x] `sitemap.xml` lists all public pages *(real domain still to be added after publishing)*
 - [x] No passwords, keys, private information or customer data are published
-- [ ] Live site checked after publishing
-- [ ] Repository URL and live URL added to this README
+- [x] Live site checked after publishing
+- [x] Repository URL and live URL added to this README
 
 ---
 
@@ -170,3 +170,5 @@ See the `changelog` file for full details.
 9. ASATA (2026) *Association of South African Travel Agents*. Available at: https://www.asata.co.za [Accessed 18 Sep. 2026].
 10. Unsplash (2026) Photographs used under the Unsplash License. Available at: https://unsplash.com/license [Accessed 31 Oct. 2026].
 11. *Student SEO and Publishing Guide* (bakery website practice), course material supplied for this assignment.
+
+
